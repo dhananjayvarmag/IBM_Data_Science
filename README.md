@@ -1,4 +1,4 @@
-# IBM_Data_Science
+# IBM Data Science Course Learning Summary
 
 During the period of COVID-19 pandemic, I have explored one of my favourite concepts i.e,. Data Science.
 
